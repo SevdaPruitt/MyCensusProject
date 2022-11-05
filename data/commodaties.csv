@@ -1,6 +1,6 @@
 NAME,GEO_ID,COMM,COMM_LABEL,YEAR,VAL,TON,state,cfs area (or part)
-['Birmingham-Hoover-Talladega, AL CFS Area; Alabama; Alabama', 'E330000US0114200000', '03', 'Agricultural products (excludes animal feed, cereal grains, and forage products)', '2012', '0', '0', '01', '14200000']
-['Birmingham-Hoover-Talladega, AL CFS Area; Alabama; Alabama', 'E330000US0114200000', '03', 'Agricultural products (excludes animal feed, cereal grains, and forage products)', '2017', '66', '35', '01', '14200000']
+1,'Birmingham-Hoover-Talladega, AL CFS Area; Alabama; Alabama', 'E330000US0114200000', '03', 'Agricultural products (excludes animal feed, cereal grains, and forage products)', '2012', '0', '0', '01', '14200000'
+2, 'Birmingham-Hoover-Talladega, AL CFS Area; Alabama; Alabama', 'E330000US0114200000', '03', 'Agricultural products (excludes animal feed, cereal grains, and forage products)', '2017', '66', '35', '01', '14200000'
 ['Birmingham-Hoover-Talladega, AL CFS Area; Alabama; Alabama', 'E330000US0114200000', '0321', 'Fresh or chilled vegetables (includes sweet potatoes, excludes potatoes)', '2012', '0', '0', '01', '14200000']
 ['Birmingham-Hoover-Talladega, AL CFS Area; Alabama; Alabama', 'E330000US0114200000', '031', 'Fresh or chilled potatoes (excludes sweet)', '2012', '0', '0', '01', '14200000']
 ['Birmingham-Hoover-Talladega, AL CFS Area; Alabama; Alabama', 'E330000US0114200000', '0310', 'Fresh or chilled potatoes, Irish potatoes (excludes sweet potatoes)', '2012', '0', '0', '01', '14200000']
